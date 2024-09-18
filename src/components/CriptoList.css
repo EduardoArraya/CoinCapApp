@@ -1,0 +1,25 @@
+.cripto-container{
+    margin: 10px;
+}
+
+.tool-bar{
+    width: 100%;
+    display: inline-flex;
+    gap: 20px;
+    justify-content: center ;
+}
+
+.cripto-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    margin-top: 15px;
+}
+
+.input-search{
+    width: 300px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 18px;
+}

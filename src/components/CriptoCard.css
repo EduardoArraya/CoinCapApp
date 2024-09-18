@@ -1,0 +1,29 @@
+.card{
+    border: 1px solid #CCCCCC;
+    border-radius: 10px;
+    background-color: #2A2A3B;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.left-side-card, .right-side-card {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.card-title{
+    font-family: Arial, sans-serif;
+    color: #D0D0D0;
+    margin: 0;
+}
+.card-text{
+    font-family: Arial, sans-serif;
+}
